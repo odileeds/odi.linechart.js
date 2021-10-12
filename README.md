@@ -1,2 +1,3 @@
 # odileeds.linechart.js
-Redirect
+
+This repository has moved to [https://github.com/open-innovations/oi.linechart.js/].
